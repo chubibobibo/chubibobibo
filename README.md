@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chubibobibo&label=Profile%20views&color=0e75b6&style=flat" alt="chubibobibo" /> </p>
 
-- 🔭 I’m currently working on [RecipeApp](https://github.com/chubibobibo/MyRecipes)
+- I’m currently working on [RecipeApp](https://github.com/chubibobibo/MyRecipes)
 
-- 🌱 I’m currently learning **React**
+- I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/lesterabao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lesterabao" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/alistair-abao-bsn-rn-03aa63260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alistair-abao-bsn-rn-03aa63260/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
