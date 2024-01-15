@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chubibobibo&label=Profile%20views&color=0e75b6&style=flat" alt="chubibobibo" /> </p>
 
-- I’m currently working on [RecipeApp](https://github.com/chubibobibo/MyRecipes)
+- I’m currently working on [Job Application Tracker](https://github.com/chubibobibo/JobTracker)
 
 - I’m currently learning **React**
 
