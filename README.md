@@ -1,11 +1,11 @@
 <h1 align="center">Hi I'm Alistair</h1>
-<h3 align="center">Web development student</h3>
+<h3 align="center">Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chubibobibo&label=Profile%20views&color=0e75b6&style=flat" alt="chubibobibo" /> </p>
 
 - I’m currently working on [Job Application Tracker](https://github.com/chubibobibo/JobTracker)
 
-- I’m currently learning **React**
+- I’m currently learning **Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
