@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chubibobibo&label=Profile%20views&color=0e75b6&style=flat" alt="chubibobibo" /> </p>
 
-- I’m currently working on [Job Application Tracker](https://github.com/chubibobibo/JobTracker)
+- I’m currently working on [E-Commerce Shop](https://github.com/chubibobibo/CameraEshop)
 
-- I’m currently learning **Typescript**
+- I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
