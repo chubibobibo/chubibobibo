@@ -21,7 +21,8 @@
   </a>
 </p>  
 
-<h3 align="center">Here are some projects i've worked on</h3>
 <hr/>  
-
+<h3 align="center">Here are some projects i've worked on</h3>
+[Aperture](https://aperture-remake.onrender.com)
+[I'm an inline-style link](https://www.google.com)
 
