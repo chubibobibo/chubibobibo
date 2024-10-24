@@ -9,8 +9,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href=""><img src="![image](https://github.com/user-attachments/assets/31f44c28-2d5c-455d-bb6f-2b5f407e4173)
-"/></a>
+  <a href=""><img src="https://github.com/user-attachments/assets/31f44c28-2d5c-455d-bb6f-2b5f407e4173
+"/>My Portfolio</a>
 <a href="https://instagram.com/lesterabao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lesterabao" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/alistair-abao-bsn-rn-03aa63260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alistair-abao-bsn-rn-03aa63260/" height="30" width="40" /></a>
 </p>
