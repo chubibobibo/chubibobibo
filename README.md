@@ -22,6 +22,14 @@
 </p>  
 
 <hr/>  
-<h3 align="center">Here are some projects i've worked on</h3>
-[Aperture](https://aperture-remake.onrender.com)
+<h3 align="center">Here are some projects i've worked on</h3>  
+
+[Aperture](https://aperture-remake.onrender.com) - A photo sharing platform for street photographers that allows other members to interact with their photos by commenting and rating it. It also provides ideas for new locations to take street photography based on the location specified by the poster.  
+
+[Job Tracker](https://jobtrackerv2.onrender.com/) - An application that hepls me keep track of my online job applications.  
+
+[Cooktionary](https://cooktionaryapp.onrender.com) - A simple application to store my personal recipes.
+
+
+
 
