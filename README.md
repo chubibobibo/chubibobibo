@@ -1,7 +1,7 @@
-<h1 align="center">Hi I'm Alistair</h1>
+<h1 align="center">Hello, I'm Alistair</h1>
 <h3 align="center">I work on websites, web and mobile apps</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chubibobibo&label=Profile%20views&color=0e75b6&style=flat" alt="chubibobibo" /> </p>
+
 
 <p align="center">- I’m currently learning **Python**<p/>
 
@@ -14,21 +14,26 @@
 </p>
 
 
+
 <h3 align="center">I am working with these languages and tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,mysql,git,github,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,mysql,git,github,js,html,css,tailwind,styledcomponents" />
   </a>
 </p>  
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=chubibobibo&label=Profile%20views&color=0e75b6&style=flat" alt="chubibobibo" /> </p>
 
 <hr/>  
 <h3 align="center">Here are some projects i've worked on</h3>  
 
-[Aperture](https://aperture-remake.onrender.com) - A photo sharing platform for street photographers that allows other members to interact with their photos by commenting and rating it. It also provides ideas for new locations to take street photography based on the location specified by the poster.  
+[Aperture](https://aperture-remake.onrender.com) - A photo sharing platform for street photographers that allows other members to interact with their photos by commenting and rating it. It also provides ideas for new locations to take street photos based on the location specified by the poster.  
 
 [Job Tracker](https://jobtrackerv2.onrender.com/) - An application that hepls me keep track of my online job applications.  
 
-[Cooktionary](https://cooktionaryapp.onrender.com) - A simple application to store my personal recipes.
+[Cooktionary](https://cooktionaryapp.onrender.com) - A simple application to store my personal recipes.  
+
+[Birthday Reservation](https://rsvp-invite-three.vercel.app/) - A simple react application that i created to provide a quick way to reserve for my kid's birthday party.
 
 
 
