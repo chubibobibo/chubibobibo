@@ -25,7 +25,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chubibobibo&label=Profile%20views&color=0e75b6&style=flat" alt="chubibobibo" /> </p>
 
 <hr/>  
-<h3 align="center">Here are some projects i've worked on</h3>  
+<h3 align="center">Here are some personal projects i've worked on</h3>  
 
 [Aperture](https://aperture-remake.onrender.com) - A photo sharing platform for street photographers that allows other members to interact with their photos by commenting and rating it. It also provides ideas for new locations to take street photos based on the location specified by the poster.  
 
