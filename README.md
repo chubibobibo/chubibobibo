@@ -3,7 +3,7 @@
 
 
 
-<p align="center">- I’m currently learning **Python**<p/>
+<p align="center">- I’m currently remaking with Typescript my Cooktionary project (https://github.com/chubibobibo/cooktionary_remake)<p/>  
 
 <h3 align="center">Connect with me:</h3>
 
@@ -18,7 +18,7 @@
 <h3 align="center">I am working with these languages and tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,mysql,git,github,js,html,css,tailwind,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,ts,vite,nodejs,mysql,git,github,js,html,css,tailwind,materialui,styledcomponents,vscode" />
   </a>
 </p>  
 
