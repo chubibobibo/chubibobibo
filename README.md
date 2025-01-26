@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://alistair-portfolio-463f.vercel.app/" ><img src="https://img.icons8.com/?size=100&id=XgVsZZvTh0tg&format=png&color=000000" align="center" height='30', width="30"/></a>
 <a href="https://instagram.com/lesterabao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lesterabao" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/alistair-abao-bsn-rn-03aa63260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alistair-abao/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/alistair-abao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alistair-abao/" height="30" width="40" /></a>
 </p>
 
 
