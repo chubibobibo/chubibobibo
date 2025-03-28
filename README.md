@@ -3,7 +3,7 @@
 
 
 
-<p align="center">- I’m currently remaking with Typescript my Cooktionary project (https://github.com/chubibobibo/cooktionary_remake)<p/>  
+<p align="center">- I’m currently remaking with Typescript my Cooktionary project (https://github.com/chubibobibo/savorly)<p/>  
 
 <h3 align="center">Connect with me:</h3>
 
